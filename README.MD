@@ -40,9 +40,9 @@ console.log(o(arr)); // => TypeError: Expected: array, Actual: object
 ```
 
 ### Full Example:
-Notes: 
-Below I use the type check functions to clarify types that are not obvious.
-Feel free to type check everything with the functions, or only what you desire.
+Notes:  
+Below I use the type check functions to clarify types that are not obvious.  
+Feel free to type check everything with the functions, or only what you desire.  
 It's user preference.
 ```
 -- ROCK, PAPER, SCISSORS
