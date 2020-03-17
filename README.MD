@@ -19,13 +19,13 @@ const { b, o, n, u, s, a, f, nul } = require('ez-types')
 
 ### Methods Available
 ____________________________________________
-a(arg)    -> checks for array
-o(arg)    -> checks for object
-f(arg)     -> checks for function
-n(arg)    -> checks for number
-s(arg)     -> checks for string
-b(arg)    -> checks for boolean
-u(arg)   -> checks for undefined
+a(arg)    -> checks for array  
+o(arg)    -> checks for object  
+f(arg)     -> checks for function  
+n(arg)    -> checks for number  
+s(arg)     -> checks for string  
+b(arg)    -> checks for boolean  
+u(arg)   -> checks for undefined  
 nul(arg) -> checks for null
 
 ### Usage:
