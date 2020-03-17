@@ -1,0 +1,20 @@
+{
+  "name": "ez-types",
+  "version": "1.0.0",
+  "description": "A simple non-invasive type checker.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/austinbeaufort/ez-types.git"
+  },
+  "keywords": ["types", "JavaScript", "fullstack"],
+  "author": "Austin Beaufort",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/austinbeaufort/ez-types/issues"
+  },
+  "homepage": "https://github.com/austinbeaufort/ez-types#readme"
+}
